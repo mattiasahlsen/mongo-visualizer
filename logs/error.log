@@ -1,0 +1,5 @@
+error: Invalid connection string {"name":"MongoParseError","timestamp":"2020-06-09T21:53:34.381Z"}
+error: Invalid connection string {"name":"MongoParseError","timestamp":"2020-06-09T21:53:38.728Z"}
+error: Invalid connection string {"name":"MongoParseError","timestamp":"2020-06-09T21:54:24.187Z"}
+error: Invalid connection string {"name":"MongoParseError","timestamp":"2020-06-09T21:54:54.768Z"}
+error: Invalid connection string {"name":"MongoParseError","timestamp":"2020-06-09T21:54:59.586Z"}
